@@ -1,0 +1,3 @@
+[submodule "Transformers-for-Natural-Language-Processing"]
+	path = ref/Transformers-for-Natural-Language-Processing
+	url = https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing.git
